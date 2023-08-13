@@ -156,13 +156,13 @@ h2 {
 
 .txt h3 {
 font-size: 30px;
-color: #FFFDFC;
+color: blue;
 text-transform: uppercase;
 margin-bottom: 10px;
 }
 
 .txt p {
-    color: blue;
+    color: black;
     font-size: 20px;
 }
 
